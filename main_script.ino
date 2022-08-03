@@ -4,7 +4,7 @@
 #include <SPI.h>
 #include <MFRC522.h>
 #define ssid "Galaxy"
-#define password "shaktipathak"
+#define password "shivamjha"
 #define RST_PIN         D3        // Configurable, see typical pin layout above
 #define SS_PIN          D4         // Configurable, see typical pin layout above
 
